@@ -4,7 +4,7 @@
 * 5200411172 Isa mukti widodo
 * 5200411178 Muhamad Ali Nugroho Ramadhan
 
-# Pembagian Pekerjaan tugas Design Document
+# Pembagian Pekerjaan tugas IPO & Desain Interface
 * 5200411145 Nindy Elisiana Oktarin         => (keluar dari perkuliahan)
 * 5200411156 Agus Ardiyanto                 => Rancangan Aplikasi (3.7, 3.8)
 * 5200411172 Isa mukti widodo               => Input Process Output ,Sketsa Aplikasi
